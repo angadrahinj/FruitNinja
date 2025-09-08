@@ -40,6 +40,7 @@ public class ComboText : MonoBehaviour
                 textColorsSO.textSecondaryGradientColor
             );
 
+            // Since the + is a seperate text object
             plus.colorGradient = new VertexGradient
             (
                 textColorsSO.textGradientColor,
@@ -47,7 +48,8 @@ public class ComboText : MonoBehaviour
                 textColorsSO.textSecondaryGradientColor,
                 textColorsSO.textSecondaryGradientColor
             );
-
+            
+            // Big Number used a bigger font size so it is also another object
             comboIntText.colorGradient = new VertexGradient
             (
                 textColorsSO.textGradientColor,
