@@ -3,6 +3,9 @@
 NOTE : 
 - I did not make this project myself since this is a project I followed from Youtube - https://www.youtube.com/watch?v=xTT1Ae_ifhM&ab_channel=Zigurous
 
+UNITY VERSION :
+- Unity 6 (6000.0.38f1 LTS)
+
 WHAT I ADDED TO THE PROJECT:
 - Reworked Phyics
     - Added custom gravity, i wanted the chopped fruits to fall faster/ more violently
